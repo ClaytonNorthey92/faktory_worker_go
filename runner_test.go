@@ -4,7 +4,7 @@ import (
 	"math/rand"
 	"testing"
 
-	faktory "github.com/contribsys/faktory/client"
+	faktory "github.com/ClaytonNorthey92/faktory/client"
 	"github.com/stretchr/testify/assert"
 )
 

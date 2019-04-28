@@ -3,7 +3,7 @@ package faktory_worker
 import (
 	"context"
 
-	faktory "github.com/contribsys/faktory/client"
+	faktory "github.com/ClaytonNorthey92/faktory/client"
 )
 
 const (

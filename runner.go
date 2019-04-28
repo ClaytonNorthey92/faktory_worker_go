@@ -11,7 +11,7 @@ import (
 	"sync"
 	"time"
 
-	faktory "github.com/contribsys/faktory/client"
+	faktory "github.com/ClaytonNorthey92/faktory/client"
 )
 
 type eventType int
